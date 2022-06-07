@@ -1,4 +1,4 @@
-#101245319 Ashneet Nagi
+
 import pygame
 import random
 
