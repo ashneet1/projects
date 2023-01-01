@@ -2,6 +2,8 @@
 import pygame
 import random
 
+#A simulation of a board game is created
+
 #sets a window
 surface = pygame.display.set_mode((700,600))
 white = (250,250,250)
